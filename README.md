@@ -15,6 +15,9 @@ Required Python 2.7 dependencies are:
 
 torch will make you go to the website for install instructions; pip will not work for it. However the instructions are straightforward:
 	http://pytorch.org/
+	
+To execute dbdock, use:
+	.../dbdock$  python dbdock.py
 
 dbdock's non-machine learning parameters are interactive via the CONFIG file in the repo root directory. 
  1) "Raw" ligand data (pre-rigid docking; '.pdb' files expected) go into the 'input_ligands_path' directory specified in CONFIG.
