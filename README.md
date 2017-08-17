@@ -17,6 +17,7 @@ torch will make you go to the website for install instructions; pip will not wor
 	http://pytorch.org/
 	
 To execute dbdock, use:
+
 	.../dbdock$  python dbdock.py
 
 dbdock's non-machine learning parameters are interactive via the CONFIG file in the repo root directory. 
