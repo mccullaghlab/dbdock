@@ -26,7 +26,7 @@ dbdock's non-machine learning parameters are interactive via the CONFIG file in 
 
  dbdock's machine learning parameters are currently global variables listed at the top of this file: 
  	svm_nn_dbdock.py
- and can be edited there. The default values should be sufficient for the provided sample data but they are a good place fore experimentation.
+ and can be edited there. The default values should be sufficient for the provided sample data but they are a good place for experimentation.
 
 dbdock currently simulates the use of autodock for rigid docking by including sample data for pre- and post-rigid docking. Flexible docking is not simulated with any data, but there are scripts: 
 	rigid_docking_script.sh
